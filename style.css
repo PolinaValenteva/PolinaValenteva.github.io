@@ -1,0 +1,25 @@
+body {
+    background-COLOR: #070312;
+}
+nav {
+    background-COLOR: #b45fd4;
+}
+main{
+    background-COLOR: #b45fd4;
+}
+h1{
+    background-COLOR: #e9de46;
+}
+h2{
+    background-COLOR: #e9de46;
+}
+h3{
+    background-COLOR: #e9de46;
+}
+article {
+    background-COLOR: #e9de46;
+}
+#flex {
+        display: flex;
+        flex-direction: row;
+}
